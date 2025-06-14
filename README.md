@@ -20,4 +20,6 @@ The next phase is selecting the appropriate machine learning algorithm. The choi
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/729e9cba-0ed1-4622-90a6-b2347606e360)
+
 
